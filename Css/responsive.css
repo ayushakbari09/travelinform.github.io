@@ -1,0 +1,790 @@
+@media only screen and (max-width: 1440px) {
+    .container {
+        max-width: 1438px !important;
+    }
+    /* Section 1 */
+    .buttons{
+        padding: 0rem 37rem !important;
+    }
+   /* Section 4 */
+    .intro {
+       width: 360px;
+    }
+   /* Section 4 */
+   /* Section 8 */
+    .card-img {
+      height: 281px;
+    }.card-img-2 {
+        height: 281px;
+    }.card-img-3 {
+        height: 281px;
+    }.card-img-4 {
+        height: 281px;
+    }.svg-group svg {
+        margin-left: 15rem;
+    }
+   /* Section 8 */
+   /* Section 9 */
+    .text-area textarea {
+        width: 86.5%;
+    }#new_form button {
+        font-size: 20px;
+    }
+   /* Section 9 */
+}
+
+@media only screen and (max-width: 1024px) {
+    section {
+        padding-top: 75px;
+    }
+    /* NavBar */
+    .nav-logo img {
+        width: 80%;
+    }.nav-item a {
+        font-size: 15px;
+        margin-right: 30px;
+    }.button button {
+        padding: 4px 32px;
+    }.buttons {
+        padding: 0rem 26rem;
+    }
+    /* NavBar */
+    /* Section 1 */
+    .section-body {
+        padding: 7rem 0rem !important;
+    }.section-body h2 {
+        font-weight: 400;
+        font-size: 55px;
+    }.section-body h1 {
+        font-size: 55px;
+    }.section-body p {
+        font-size: 18px;
+    }.btn-1 button {
+        padding: 5px 25px;
+    }.btn-2 button {
+        font-size: 13px;
+        padding: 5px 25px;
+    }.buttons {
+        padding: 0rem 26rem !important;
+    }
+    /* Section 1 */
+
+    /* Section 2 */
+    .white-box {
+        width: 89%;
+        padding: 13px 0px;
+        top: 30rem;
+    }.white-box h2 {
+        font-size: 23px;
+    }.white-box p {
+        font-size: 16px;
+    }
+    /* Section 2 */
+
+    /* Section 3 */
+    .section-parts {
+        margin-top: 100px;
+    }.images h2 {
+        font-size: 38px;
+    }.images p {
+        font-size: 15px;
+    }.btn-1 button {
+        font-size: 13px;
+    }
+    /* Section 3 */
+
+    /* Section 4 */
+    .tour-card1 {
+        height: 24rem;
+    }.tour-card2 {
+        height: 24rem;
+    }.tour-card3 {
+        height: 24rem;
+    }.tour-card4 {
+        height: 24rem;
+    }.headind-part h2 {
+        font-size: 38px;
+    }.headind-part h2::after {
+        height: 5px;
+        width: 20%;
+    }.intro {
+        width: 256px !important;
+        height: 75px;
+    }.tour-cards h3 {
+        font-size: 17px;
+    }.tour-cards h4 {
+        font-size: 15px;
+    }.tour-cards:hover .intro {
+        height: 80px;
+    }
+    /* Section 4 */
+
+    /* Section 5 */
+    .review svg {
+        width: 90px;
+    }.review p {
+        font-size: 16px;
+    }.card-end h3 {
+        font-size: 18px;
+    }.card-end p {
+        font-size: 18px;
+    }.travel-card h4 {
+        font-size: 18px;
+    }.headind-part p {
+        font-size: 15px;
+    }.amenities-img-3 p {
+        font-size: 18.2px;
+        width: 92%;
+        padding-top: 10px;
+        padding-bottom: 5px;
+    }
+    
+    /* Section 5 */
+
+    /* Section 6 */
+    .reviews-box-1 svg {
+        width: 120px;
+        margin-bottom: 10px;
+    }.reviews-box-1 p {
+        font-size: 16px;
+    }.reviews-box-2 p {
+        font-size: 15px;
+    }.profile p {
+        font-size: 18px;
+    }.reviews-box-1 {
+        margin-top: 0px;
+    }.reviews-box-2 {
+        margin-top: 0px;
+    }.reviews-box-2 svg {
+        width: 120px;
+        margin-bottom: 10px;
+    }
+    /* Section 6 */
+
+    /* Section 7 */
+    .svg-group svg {
+        margin-left: 10rem;
+        margin-top: 5px;
+    }.card-img {
+        height: 200px;
+    }.card-img-2 {
+        height: 200px;
+    }.card-img-3 {
+        height: 200px;
+    }.card-img-4 {
+        height: 200px;
+    }.guide-card-body p {
+        font-size: 14px;
+    }
+    /* Section 7 */
+
+    /* Section 8 */
+    .booking-info h4 {
+        font-size: 20px;
+        margin-bottom: 0px;
+    }.booking-info h2 {
+        font-size: 36px;
+    }.booking-info p {
+        width: 91%;
+        font-size: 16px;
+    }.booking-info button {
+        padding: 6px 30px;
+        font-size: 15px;
+    }.booking-form h2 {
+        font-size: 36px;
+    }.book-section {
+        height: 535px;
+    }.booking-form h2 {
+        font-size: 36px;
+    }.form-group input {
+        height: 45px;
+        font-size: 15px;
+    }.text-area textarea {
+        width: 91% !important;
+        font-size: 15px;
+    }#new_form button {
+        font-size: 14px;
+        padding: 8px 153px;
+    }.booking-info {
+        padding: 95px 0px;
+    }
+    /* Section 8 */
+
+    /* Footer */
+    .footer-column h2 {
+        font-size: 17px;
+    }.footer-column li {
+        font-size: 12px;
+    }.footer-column p {
+        font-size: 12px;
+        margin-bottom: 5px;
+    }.footer-end p {
+        font-size: 10px;
+    }.social-svg a svg {
+        width: 25px;
+    }
+    /* Footer */
+}
+
+@media only screen and (max-width: 768px) {
+    .container {
+        padding: 8px 35px !important;
+    }
+    section {
+        padding-top: 45px;
+    }
+    /* NavBar */
+    .nav-logo img {
+        width: 60%;
+    }.nav-item a {
+        font-size: 12px;
+        margin-right: 22px;
+    }.button button {
+        font-size: 12px;
+        padding: 2px 27px;
+    }
+    /* NavBar */
+    /* Section 1 */
+    .section-body{
+        padding: 4rem 0rem !important;
+    }.section-body h2 {
+        font-weight: 400;
+        font-size: 45px;
+    }.section-body h1 {
+        font-size: 45px;
+    }.section-body p {
+        font-size: 15px;
+    }.buttons {
+        padding: 0rem 18.5rem !important;
+    }.btn-1 button {
+        font-size: 12px;
+    }.btn-2 button {
+        padding: 5px 25px;
+        font-size: 10px;
+    }
+    /* Section 1 */
+
+    /* Section 2 */
+    .white-box {
+        top: 21rem;
+    }.white-box h2 {
+        font-size: 20px;
+    }.white-box p {
+        font-size: 14px;
+    }
+    /* Section 2 */
+    /* Section 3 */
+    .images h2 {
+        font-size: 29px;
+        margin-bottom: -12px;
+    }.images p {
+        font-size: 12px;
+        padding-bottom: 0px;
+    }.btn-1 button {
+        font-size: 10px;
+    }.headind-part h2 {
+        font-size: 29px;
+    }
+    /* Section 3 */
+    /* Section 4 */
+    .tour-card1 {
+        height: 18rem;
+    }.tour-card2 {
+        height: 18rem;
+    }.tour-card3 {
+        height: 18rem;
+    }.tour-card4 {
+        height: 18rem;
+    }.tour-cards{
+        margin-top: 40px;
+        background-size: cover;
+    }.tour-cards h3 {
+        font-size: 14px;
+    }.tour-cards h4 {
+        font-size: 14px;
+    }.intro {
+        width: 192px !important;
+        height: 55px;
+    }    .headind-part h2::after {
+        height: 3px;
+        width: 18%;
+    }
+   /* Section 4 */
+
+   /* Section 5 */
+    .review svg {
+        width: 74px;
+    }.review p {
+        font-size: 14px;
+        padding-left: 12px;
+    }.travel-card h4 {
+        font-size: 14px;
+    }.card-end h3 {
+        font-size: 15px;
+    }.card-end p {
+        font-size: 15px;
+    }
+   /* Section 5 */
+
+   /* Section 6 */
+    .headind-part p {
+        font-size: 13px;
+        padding: 0px 100px;
+    }.amenities-img-3 p {
+        font-size: 12px;
+    }
+   /* Section 6 */
+
+   /* Section 7 */
+    .reviews-box-1 svg {
+        width: 95px;
+        margin-bottom: 5px;
+    }.reviews-box-1 p {
+        font-size: 13px;
+    }.profile p {
+        font-size: 15px;
+    }.reviews-box-2 svg {
+        width: 95px;
+        margin-bottom: 5px;
+    }.reviews-box-2 p {
+        font-size: 13px;
+    }.reviews-box-2 {
+        padding-left: 23px !important;
+    }  
+   /* Section 7 */
+
+   /* Section 8 */
+    .svg-group svg {
+       margin-left: 7.5rem;
+       margin-top: 0px;
+       width: 18px;
+    }.card-img {
+        height: 150px;
+    }
+    .card-img-2 {
+        height: 150px;
+    }
+    .card-img-3 {
+        height: 150px;
+    }
+    .card-img-4 {
+        height: 150px;
+    }.guide-card-body {
+        box-shadow: 4px 3px 8px;
+        background-color: white;
+    }.guide-card-body p {
+        font-size: 12px;
+    }
+   /* Section 8 */
+
+   /* Section 9 */
+    .book-section {
+      height: 470px;
+    }.booking-info h4 {
+      font-size: 17px;
+      margin-bottom: 0px;
+    }.booking-info h2 {
+        font-size: 30px;
+    }.booking-info p {
+        width: 91%;
+        font-size: 13px;
+    }.booking-info button {
+        padding: 5px 20px;
+        font-size: 13px;
+    }.booking-form h2 {
+        font-size: 30px;
+        padding-bottom: 12px;
+    }.form-group input {
+        height: 40px;
+        font-size: 13px;
+    }.text-area textarea {
+        width: 88% !important;
+        font-size: 13px;
+    }#new_form button {
+        font-size: 14px;
+        padding: 8px 100px;
+    }
+   /* Section 9 */
+
+   /* Footer */
+    .footer-column h2 {
+       font-size: 12px;
+    }.footer-column li {
+        font-size: 10px;
+    }.footer-column p {
+        font-size: 8px;
+        margin-bottom: 5px;
+    }.social-svg a svg {
+        width: 19px;
+    }.footer-end p {
+        font-size: 8px;
+    }
+   /* Footer */
+}
+
+@media only screen and (max-width: 425px) {
+    .container {
+        padding: 8px 20px !important;
+    }section {
+        padding-top: 5px;
+    }
+  /* NavBar */
+    .responsive-navbar{
+        display: block;
+    }.navbar-nav {
+        display: none;
+    }.button button {
+        display: none;
+    }
+  /* NavBar */
+
+  /* Section 1 */
+    .section-body h2 {
+       font-size: 30px;
+       margin-bottom: 0px;
+    }.section-body h1 {
+        font-size: 30px;
+        margin-bottom: 0px;
+    }.buttons {
+        padding: 0rem 9.3rem !important;
+    }.btn-1 button {
+        font-size: 8px !important;
+        padding: 5px 15px !important;
+    }.btn-2 button {
+        padding: 5px 14px;
+        font-size: 8px;
+    }.section-body p {
+        font-size: 10px;
+        margin-bottom: 5px;
+    }.section-body {
+        padding: 1rem 0rem !important;
+    }
+  /* Section 1 */
+
+  /* Section 2 */
+    .white-box {
+      top: 12.5rem;
+      width: 90%;
+    }.white-box h2 {
+        font-size: 12px;
+    }.white-box p {
+        font-size: 10px;
+    }
+  /* Section 2 */
+
+  /* Section 3 */
+    .images p {
+      font-size: 14.5px;
+      padding-bottom: 0px;
+      width: 100%;
+    }.btn-1 button {
+        font-size: 12px;
+        padding: 5px 25px;
+    }.images h2 {
+        font-size: 29px;
+        margin-bottom: -20px;
+        margin-top: 20px;
+    }
+  /* Section 3 */
+
+  /* Section 4 */
+    .tour-card1 {
+      height: 32rem;
+    }.tour-card2 {
+        height: 32rem;
+    }.tour-card3 {
+        height: 32rem;
+    }.tour-card4 {
+        height: 32rem;
+    }.tour-cards:hover .intro {
+        height: 90px;
+    }.tour-cards h3 {
+        font-size: 18px;
+    }.tour-cards h4 {
+        font-size: 17px;
+    }.tour-cards:hover .intro {
+        height: 110px;
+    }.intro {
+        width: 425px !important;
+    }
+  /* Section 4 */
+
+  /* Section 5 */
+    .headind-part h2 {
+      font-size: 29px;
+      margin-top: 20px;
+    }.travel-card {
+        margin-top: 27px;
+    }.review svg {
+        width: 100px;
+    }.review p {
+        font-size: 17px;
+        padding-left: 12px;
+    }.travel-card h4 {
+        font-size: 22px;
+    }.card-end h3 {
+        font-size: 21px;
+    }.card-end p {
+        font-size: 18px;
+    }
+  /* Section 5 */
+
+  /* Section 6 */
+    .headind-part p {
+       font-size: 11px;
+       padding: 0px 0px;
+    }.amenities-img-2 img {
+        margin-top: 15px;
+    }.amenities-img-4 img {
+        width: 60%;
+        float: inline-end;
+    }.amenities-img-3 p {
+        width: 100%;
+    }
+  /* Section 6 */
+
+  /* Section 7 */
+    .reviews-box-1 p {
+      font-size: 15px;
+      margin-bottom: 5px;
+    }.reviews-box-1 {
+        margin-top: 17px;
+    }.reviews-box-2 {
+        margin-top: 17px;
+    }
+  /* Section 7 */
+
+  /* Section 8 */
+    .card-img {
+      height: 175px;
+    }.card-img-2 {
+      height: 175px;
+    }.card-img-3 {
+        height: 175px;
+    }.card-img-4 {
+        height: 175px;
+    }.svg-group svg {
+        margin-left: 8.5rem;
+    }.guide-card {
+        margin-top: 30px;
+    }.guide-card-body p {
+        font-size: 12px;
+    }
+
+  /* Section 8 */
+
+
+  /* Section 9 */
+    .book-section {
+        height: 660px;
+        margin-top: 30px;
+    }.booking-info {
+        padding: 35px  0px;
+    }.booking-form{
+        padding: 0px;
+    }.booking-info p {
+        width: 100%;
+    } #new_form button {
+        padding: 8px 140px;
+    }.text-area textarea {
+        width: 94% !important;
+    }.form-group input {
+        height: 40px;
+        font-size: 13px;
+        width: 110%;
+    }
+  /* Section 9 */
+
+  /* Footer */
+    .footer-column h2 {
+      font-size: 17px;
+      padding-bottom: 5px;
+    }.footer-column p {
+        font-size: 12px;
+        margin-bottom: 5px;
+    }.footer-column img {
+        width: 35%;
+    }
+  /* Footer */
+}
+
+@media only screen and (max-width: 375px) {
+   /* Navbar */
+    .nav-logo img {
+      width: 50%;
+    }.responsive-navbar img {
+        width: 70%;
+    }
+  /* NavBar */
+  /* Section 1 */
+    .section-body h2 {
+        font-size: 28px;
+    }.section-body h1 {
+        font-size: 28px;
+    }.section-body p {
+        font-size: 9px;
+    }.buttons {
+        padding: 0rem 8rem !important;
+    }.btn-1 button {
+        font-size: 8px !important;
+        padding: 3px 12px !important;
+    }.btn-2 button {
+        padding: 3px 12px;
+        font-size: 8px;
+    }
+  /* Section 1 */
+  /* Section 2 */
+    .white-box p {
+      font-size: 9px;
+    }
+  /* Section 2 */  
+  /* Section 3 */
+    .images p {
+        font-size: 12.5px;
+        margin-bottom: 5px;
+    }.images h2 {
+        font-size: 25px;
+    }.headind-part h2 {
+        font-size: 25px;
+    }
+  /* Section 3 */
+   /* Section 4 */
+    .intro {
+      width: 375px !important;
+    }.tour-cards {
+        margin-top: 25px;
+    }
+  /* Section 4 */
+
+  /* Section 6 */
+    .amenities-img-3 p {
+      font-size: 11px;
+      margin-bottom: 5px;
+    }
+  /* Section 6 */
+  /* Section 7 */
+    .reviews {
+     margin-top: 12px;
+    }
+  /* Section 7 */
+  /* Section 8 */
+    .card-img {
+      height: 151px;
+    }.card-img-2{
+        height: 151px;
+    }.card-img-3{
+        height: 151px;
+    }.card-img-4{
+        height: 151px;
+    }.svg-group svg {
+        margin-left: 7.5rem;
+    }.guide-card-body p {
+        font-size: 10px;
+    }
+  /* Section 8 */
+  /* Section 9 */
+    .text-area textarea {
+        width: 92% !important;
+    } #new_form button {
+        padding: 8px 113px;
+    }
+  /* Section 9 */
+  /* Footer */
+    .footer-column p {
+        font-size: 12px;
+        margin-bottom: 0px;
+    }
+  /* Footer */
+}
+
+@media only screen and (max-width: 320px){
+    .container {
+        padding: 8px 12px !important;
+    }
+  /* Section 1 */
+    .buttons {
+        padding: 0rem 5.6rem !important;
+    }
+  /* Section 1 */
+  /* Section 2 */
+    .white-box p {
+        font-size: 8px;
+    }.white-box {
+        width: 92%;
+        top: 11rem;
+        padding: 5px 0px;
+        box-shadow: 0px 3px 9px black;
+    }
+  /* Section 2 */
+  /* Section 3 */
+    .images p {
+        font-size: 11px;
+        margin-bottom: 5px;
+    }.images h2 {
+        font-size: 21px;
+    }
+  /* Section 3 */
+  /* Section 4 */
+    .intro {
+        width: 319.5px !important;
+    }.tour-card1 {
+        height: 29rem;
+    }.tour-card2 {
+        height: 29rem;
+    }.tour-card3 {
+        height: 29rem;
+    }.tour-card4 {
+        height: 29rem;
+    }.tour-card5 {
+        background-size: contain;
+    }
+ /* Section 4 */
+ /* Section 5 */
+    .review svg {
+        width: 90px;
+    }.travel-card h4 {
+        font-size: 20px;
+    }.card-end h3 {
+        font-size: 18px;
+    }.card-end p {
+        font-size: 16px;
+    }.headind-part h2 {
+        font-size: 21px;
+    }
+ /* Section 5 */
+ /* Section 6 */
+    .headind-part p {
+       font-size: 10px;
+       padding: 0px 0px;
+    }.amenities-img-3 p {
+        font-size: 10px;
+        margin-bottom: 5px;
+    }
+ /* Section 6 */
+ /* Section 7 */
+    .reviews-box-1 p {
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+ /* Section 7 */
+ /* Section 8 */
+    .card-img {
+        height: 131px;
+    }.card-img-2{
+        height: 131px;
+    }.card-img-3{
+        height: 131px;
+    }.card-img-4{
+        height: 131px;
+    }.svg-group svg {
+        margin-left: 6.5rem;
+    }
+ /* Section 8 */
+ /* Section 9 */
+    .text-area textarea {
+       width: 91% !important;
+    }#new_form button {
+        padding: 8px 94px;
+    }
+ /* Section 9 */
+}
